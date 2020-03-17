@@ -21,8 +21,8 @@ Other Fields: `Economics`, `Psychology`, `Sociology`,
 
 ## Go to my Github to see some of my projects
 
-https://github.com/filipmarkoski
+[https://github.com/filipmarkoski](https://github.com/filipmarkoski)
 
 ## Contact
 
-filip.markoski45@gmail.com
+<a href="mailto:filip.markoski45@gmail.com">filip.markoski45@gmail.com</a> 
