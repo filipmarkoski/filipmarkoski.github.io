@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Filip Markoski - Филип Маркоски
 
-You can use the [editor on GitHub](https://github.com/filipmarkoski/filipmarkoski.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="figures/park_river.png" alt="drawing" width="300"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello, I'm a computer science student from Macedonia interested in anaylsis and prediction. 
 
-### Markdown
+* Main focus: Natural Language Processing (NLP)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Interests
 
-```markdown
-Syntax highlighted code block
+`Python`
 
-# Header 1
-## Header 2
-### Header 3
+`Machine Learning` and `Deep Learning`,
 
-- Bulleted
-- List
+Most work done in Natural Language Processing sub-field:
+ `Abusive Language Detection`
 
-1. Numbered
-2. List
+Mathematics: `Statistics`, `Linear Algebra`, `Probability Theory`
 
-**Bold** and _Italic_ and `Code` text
+Other Fields: `Economics`, `Psychology`, `Sociology`,
 
-[Link](url) and ![Image](src)
-```
+## Go to my Github to see some of my projects
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+https://github.com/filipmarkoski
 
-### Jekyll Themes
+## Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/filipmarkoski/filipmarkoski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+filip.markoski45@gmail.com
